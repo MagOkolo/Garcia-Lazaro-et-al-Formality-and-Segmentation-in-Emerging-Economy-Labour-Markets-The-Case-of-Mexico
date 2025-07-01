@@ -14,4 +14,4 @@ the wage distribution, with the premium associated with segmentation being large
 
 ## How to Replicate the Results
 
-T
+Figures 3 and 4 are derived from running mexico_rpart_cm1.R
