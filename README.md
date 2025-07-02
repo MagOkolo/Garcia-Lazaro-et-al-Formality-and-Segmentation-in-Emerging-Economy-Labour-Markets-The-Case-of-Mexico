@@ -14,7 +14,7 @@ the wage distribution, with the premium associated with segmentation being large
 
 ## How to Replicate the Results
 
-`gen_mexico_data.do` generates Table 1.
+`gen_mexico_data.do` generates Table 1. The full ENOE dataset used in this analysis is too large to be included in this repository but it is available from the Instituto Nacional de Estadística y Geografía (INEGI) at the following link: https://www.inegi.org.mx/programas/enoe/
 
 `gen_table_2.m` executes `cluster_2_8` and `sil_stats` and generates Table 2.
 
