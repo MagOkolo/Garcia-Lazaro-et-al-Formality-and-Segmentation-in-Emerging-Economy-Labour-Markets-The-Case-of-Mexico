@@ -14,6 +14,8 @@ the wage distribution, with the premium associated with segmentation being large
 
 ## How to Replicate the Results
 
+`gen_mexico_data.do` generates Table 1.
+
 `gen_table_2.m` executes `cluster_2_8` and `sil_stats` to generate Table 2.
 
 `wage_distribution_mexico` generaes Figure 2.
