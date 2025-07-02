@@ -15,6 +15,7 @@ the wage distribution, with the premium associated with segmentation being large
 ## How to Replicate the Results
 
 The file `run_new_clustering_mexico_baseline.m` executes the other .m files in the folder.
+- "cluster_2_8" runs k-medoid clusters from 2 to 8
 
 
 
