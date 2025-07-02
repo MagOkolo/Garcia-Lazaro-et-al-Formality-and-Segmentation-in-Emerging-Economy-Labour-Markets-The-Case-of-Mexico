@@ -22,4 +22,4 @@ the wage distribution, with the premium associated with segmentation being large
 
 `gen_table_3` uses `mexico_results_wage_data.dta` to generate Table 3.
 
-`mexico_rpart_cm1.R` generates Figures 3 and 4.
+`mexico_rpart_cm1.R` uses `tree_data.xlsx` to generate Figures 3 and 4.
